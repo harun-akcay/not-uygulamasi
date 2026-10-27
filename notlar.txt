@@ -11,3 +11,4 @@ git add    : Değişiklikleri staging area ya alır
 git commit : Staging deki değişiklikleri kaydeder
 git status : Dosyaların durumunu gösterir
 git log    : Commit geçmişini gösterir
+git branch : Branch'leri listeler
