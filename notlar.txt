@@ -4,3 +4,10 @@ ls    : Klasördeki dosyaları listeler (-a ile gizliler de görünür)
 cd    : Klasörler arasında geçiş yapar
 mkdir : Yeni klasör oluşturur
 touch : Boş bir dosya oluşturur
+
+=== Hafta 2 - Git Komutları ===
+git init   : Klasörü Git reposuna çevirir
+git add    : Değişiklikleri staging area ya alır
+git commit : Staging deki değişiklikleri kaydeder
+git status : Dosyaların durumunu gösterir
+git log    : Commit geçmişini gösterir
