@@ -1,0 +1,6 @@
+=== Hafta 1 - Linux Komutları ===
+pwd   : Bulunduğum klasörün tam yolunu gösterir
+ls    : Klasördeki dosyaları listeler (-a ile gizliler de görünür)
+cd    : Klasörler arasında geçiş yapar
+mkdir : Yeni klasör oluşturur
+touch : Boş bir dosya oluşturur
